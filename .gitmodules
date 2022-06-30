@@ -1,0 +1,3 @@
+[submodule "BJC"]
+	path = modules/BJC
+	url = https://github.com/cychitivav/industrial_robotics.git
