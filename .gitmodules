@@ -1,3 +1,3 @@
-[submodule "BJC"]
+[submodule "modules/BJC"]
 	path = modules/BJC
-	url = https://github.com/cychitivav/industrial_robotics.git
+	url = https://github.com/cychitivav/industrial_robotics
